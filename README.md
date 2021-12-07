@@ -8,3 +8,6 @@ This application utilizes a functional interface called `Consumer`. I'm building
 
 ## University - with Lambdas
 This application uses lambdas in addition to working with polymorphic collections. The functional interface utilized is called `Predicate`. Other topics covered are: `inheritance` and `regex validation` techniques. 
+
+## streams
+This application uses streams and the different methods on offer like: `filter`, `map`, `flatMap`, `collect`, `groupingBy`.
